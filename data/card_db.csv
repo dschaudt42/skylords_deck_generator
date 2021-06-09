@@ -1,0 +1,375 @@
+name,affinities,cost,faction,orbs,orbsamount,rarity,type
+Abomination,"Frost,Shadow,All",220,Twilight,"Nature,Nature,Fire,Fire",4,Rare,Unit
+Abyssal Warder,"Fire,Frost,All",250,Nature,"Nature,Nature,Nature",3,Ultra Rare,Unit
+Aggressor,"Frost,Nature,All",150,Stonekin,"Frost,Nature",2,Uncommon,Unit
+Altar of Chaos,None,250,Shadow,"Shadow,Shadow,Neutral,Neutral",4,Rare,Building
+Altar of Nihil,None,80,Shadow,"Shadow,Neutral,Neutral",3,Rare,Building
+Amazon,"Frost,Nature,All",75,Nature,Nature,1,Rare,Unit
+Amii Monument,None,250,Legendary,"Neutral,Neutral,Neutral",3,Rare,Building
+Amii Phantom,None,60,Amii,"Nature,Shadow",2,Common,Unit
+Amii Ritual,"Frost,Nature,All",150,Frost,"Frost,Frost,Frost",3,Uncommon,Spell
+Amok,"Fire,Shadow,All",125,Bandit,"Shadow,Shadow,Fire,Fire",4,Rare,Spell
+Architect's Call,"Frost,Shadow,All",100,Frost,"Frost,Frost,Neutral",3,Uncommon,Spell
+Area Ice Shield,None,80,Frost,"Frost,Frost",2,Rare,Spell
+Armored Tower,None,80,Frost,"Frost,Neutral,Neutral",3,Uncommon,Building
+Artillery,"Fire,Shadow,All",190,Bandit,"Shadow,Shadow,Fire,Fire",4,Uncommon,Building
+Ashbone Pyro,None,100,Shadow,"Shadow,Neutral,Neutral",3,Rare,Unit
+Aura of Corruption,None,100,Shadow,"Shadow,Neutral",2,Rare,Spell
+Aura of Pain,None,100,Fire,"Fire,Neutral,Neutral",3,Uncommon,Spell
+Avatar of Frost,None,250,Frost,"Frost,Frost,Frost",3,Ultra Rare,Unit
+Backlash,None,130,Fire,"Fire,Neutral,Neutral",3,Ultra Rare,Spell
+Bandit Lancer,"Nature,Shadow,All",60,Bandit,"Shadow,Fire,Neutral",3,Uncommon,Unit
+Bandit Launcher,"Fire,Shadow,All",60,Bandit,"Shadow,Fire",2,Uncommon,Building
+Bandit Sorceress,"Fire,Frost,All",50,Bandit,"Shadow,Fire",2,Common,Unit
+Bandit Spearmen,"Fire,Frost,All",70,Bandit,"Shadow,Fire",2,Common,Unit
+Bandit Stalker,"Nature,Shadow,All",60,Bandit,"Shadow,Fire",2,Common,Unit
+Banditos,"Frost,Nature,All",60,Bandit,"Shadow,Fire",2,Uncommon,Unit
+Banner of Glory,None,40,Fire,Fire,1,Common,Building
+Batariel,"Fire,Shadow,All",300,Fire,"Fire,Fire,Fire,Fire",4,Rare,Unit
+Battleship,None,260,Frost,"Frost,Frost,Neutral,Neutral",4,Rare,Unit
+Befallen's Curse,"Fire,Shadow,All",120,Shadow,"Shadow,Shadow",2,Uncommon,Spell
+Blaster Cannon,"Fire,Shadow,All",60,Fire,Fire,1,Common,Building
+Blood Healing,None,50,Shadow,"Shadow,Neutral,Neutral",3,Uncommon,Spell
+Bloodhorn,"Fire,Shadow,All",240,Bandit,"Shadow,Fire,Neutral,Neutral",4,Rare,Unit
+Bloodthirst,None,120,Fire,"Fire,Fire,Neutral,Neutral",4,Uncommon,Spell
+Boom Brothers,None,100,Fire,"Fire,Neutral,Neutral,Neutral",4,Uncommon,Unit
+Brannoc,None,230,Legendary,"Neutral,Neutral,Neutral",3,Rare,Unit
+Breeding Grounds,None,70,Nature,"Nature,Neutral",2,Common,Building
+Burrow Ritual,"Fire,Nature,All",50,Nature,"Nature,Neutral",2,Common,Spell
+Burrower,None,70,Nature,"Nature,Neutral",2,Uncommon,Unit
+Cannon Tower,None,70,Frost,"Frost,Neutral",2,Common,Building
+Church of Negation,None,150,Shadow,"Shadow,Shadow,Neutral",3,Ultra Rare,Building
+Cluster Explosion,"Fire,Shadow,All",200,Fire,"Fire,Fire,Neutral,Neutral",4,Ultra Rare,Spell
+Coldsnap,None,80,Frost,"Frost,Neutral",2,Uncommon,Spell
+Colossus,None,280,Nature,"Nature,Nature,Nature,Neutral",4,Rare,Unit
+Comet Catcher,None,250,Fire,"Fire,Fire,Fire,Neutral",4,Rare,Building
+Commandos,"Frost,Shadow,All",80,Bandit,"Shadow,Fire",2,Common,Unit
+Construct,None,250,Frost,"Frost,Neutral,Neutral,Neutral",4,Uncommon,Unit
+Construction Hut,None,50,Frost,Frost,1,Uncommon,Building
+Core Dredge,"Fire,Frost,All",225,Frost,"Frost,Frost,Neutral",3,Ultra Rare,Unit
+Corpse Explosion,None,100,Shadow,"Shadow,Shadow",2,Uncommon,Spell
+Corsair,"Nature,Shadow,All",230,Bandit,"Shadow,Fire,Neutral",3,Rare,Unit
+Creeping Paralysis,None,60,Nature,"Nature,Nature",2,Uncommon,Spell
+Crystal Fiend,"Frost,Nature,All",100,Stonekin,"Frost,Nature",2,Rare,Unit
+Cultist Master,None,60,Shadow,"Shadow,Shadow,Neutral",3,Rare,Unit
+Curse of Oink,None,65,Nature,"Nature,Neutral",2,Common,Spell
+Curse Orb,None,165,Legendary,"Neutral,Neutral,Neutral",3,Ultra Rare,Spell
+Curse Well,None,210,Legendary,"Neutral,Neutral,Neutral",3,Rare,Spell
+Dark Crystal,None,100,Legendary,"Neutral,Neutral",2,Common,Building
+Darkelf Assassins,None,50,Shadow,"Shadow,Neutral",2,Uncommon,Unit
+Death Ray,None,240,Shadow,"Shadow,Shadow,Shadow,Neutral",4,Rare,Unit
+Deathglider,"Frost,Nature,All",60,Twilight,"Nature,Fire",2,Uncommon,Unit
+Decomposer,None,50,Shadow,Shadow,1,Common,Building
+Deep One,"Nature,Shadow,All",120,Nature,"Nature,Nature",2,Uncommon,Unit
+Deepcoil Worm,None,250,Nature,"Nature,Neutral,Neutral",3,Rare,Unit
+Deepfang,"Fire,Nature,All",250,Stonekin,"Frost,Frost,Nature",3,Rare,Unit
+Deepgorge,"Fire,Frost,All",225,Stonekin,"Frost,Frost,Nature,Nature",4,Uncommon,Building
+Defenders,None,70,Frost,"Frost,Neutral",2,Common,Unit
+Defense Tower,None,50,Frost,Frost,1,Common,Building
+Disenchant,"Nature,Shadow,All",90,Fire,"Fire,Neutral",2,Ultra Rare,Spell
+Dreadcharger,None,60,Shadow,Shadow,1,Rare,Unit
+Dreadnought,None,240,Frost,"Frost,Frost,Frost,Frost",4,Ultra Rare,Unit
+Drones,None,120,Nature,"Nature,Neutral,Neutral",3,Common,Unit
+Dryad,"Frost,Nature,All",60,Nature,Nature,1,Rare,Unit
+Dying Breed,"Nature,Shadow,All",120,Fire,"Fire,Neutral,Neutral",3,Uncommon,Spell
+Earth Crystal,None,100,Legendary,"Neutral,Neutral",2,Common,Building
+Earthen Gift,"Fire,Shadow,All",160,Stonekin,"Frost,Frost,Nature,Nature",4,Rare,Spell
+Earthkeeper,"Fire,Frost,All",60,Stonekin,"Frost,Nature",2,Uncommon,Unit
+Earthshaker,None,100,Fire,"Fire,Neutral,Neutral,Neutral",4,Rare,Spell
+Easter Egg,None,25,Legendary,"Neutral,Neutral",2,Common,Unit
+Eliminator,"Fire,Frost,All",60,Shadow,"Shadow,Neutral",2,Uncommon,Unit
+Embalmer's Shrine,None,30,Shadow,Shadow,1,Rare,Building
+Emberstrike,None,120,Fire,"Fire,Neutral,Neutral,Neutral",4,Common,Unit
+Energy Parasite,None,50,Nature,"Nature,Nature",2,Uncommon,Unit
+Enforcer,None,60,Fire,"Fire,Fire",2,Uncommon,Unit
+Enlightenment,None,270,Nature,"Nature,Nature,Neutral",3,Ultra Rare,Spell
+Ensnaring Roots,None,60,Nature,Nature,1,Uncommon,Spell
+Envenom,"Fire,Shadow,All",75,Nature,Nature,1,Uncommon,Spell
+Equilibrium,"Frost,Nature,All",125,Nature,"Nature,Neutral,Neutral",3,Common,Spell
+Eruption,None,80,Fire,Fire,1,Common,Spell
+Ethereal Storm,"Fire,Frost,All",165,Lost Souls,"Frost,Shadow,Neutral",3,Common,Spell
+Evocator's Woe,"Nature,Shadow,All",90,Shadow,"Shadow,Shadow,Neutral",3,Ultra Rare,Spell
+Executor,None,50,Shadow,Shadow,1,Uncommon,Unit
+Fallen Skyelf,None,100,Shadow,"Shadow,Shadow,Neutral",3,Rare,Unit
+Fathom Lord,None,120,Nature,"Nature,Nature,Neutral",3,Rare,Unit
+Fire Bomb,None,50,Fire,Fire,1,Common,Building
+Fire Dragon,None,250,Fire,"Fire,Fire,Fire,Neutral",4,Uncommon,Unit
+Fire Sphere,None,120,Fire,"Fire,Fire,Fire,Neutral",4,Common,Spell
+Fire Stalker,None,70,Fire,"Fire,Neutral",2,Common,Unit
+Fire Worm,None,210,Fire,"Fire,Fire,Neutral,Neutral",4,Rare,Unit
+Firedancer,None,70,Fire,"Fire,Fire",2,Ultra Rare,Unit
+Firesworn,"Fire,Frost,All",75,Fire,Fire,1,Rare,Unit
+Flame Crystal,None,100,Legendary,"Neutral,Neutral",2,Common,Building
+Fleshbender,"Fire,Shadow,All",120,Twilight,"Nature,Fire,Neutral",3,Common,Building
+Forest Elder,"Nature,Shadow,All",325,Nature,"Nature,Nature,Nature,Nature",4,Ultra Rare,Unit
+Forest's Vim,"Nature,Shadow,All",100,Nature,"Nature,Nature,Neutral",3,Ultra Rare,Spell
+Forsaken,None,50,Shadow,Shadow,1,Common,Unit
+Fountain of Rebirth,None,60,Nature,Nature,1,Uncommon,Building
+Frenetic Assault,"Nature,Shadow,All",90,Shadow,"Shadow,Shadow,Neutral",3,Rare,Spell
+Frontier Keep,"Fire,Frost,All",250,Frost,"Frost,Frost,Neutral",3,Uncommon,Building
+Frost Bite,"Fire,Shadow,All",25,Frost,Frost,1,Common,Spell
+Frost Crystal,None,70,Frost,"Frost,Frost",2,Rare,Building
+Frost Mage,None,60,Frost,Frost,1,Uncommon,Unit
+Frost Shard,None,150,Frost,"Frost,Frost,Neutral",3,Ultra Rare,Spell
+Frost Sorceress,None,60,Frost,Frost,1,Uncommon,Unit
+Furnace of Flesh,None,75,Shadow,"Shadow,Neutral",2,Uncommon,Building
+Gemeye,"Nature,Shadow,All",270,Stonekin,"Frost,Nature,Neutral,Neutral",4,Uncommon,Unit
+Ghostspears,None,70,Nature,"Nature,Neutral",2,Common,Unit
+Giant Slayer,None,80,Fire,"Fire,Fire,Neutral",3,Rare,Unit
+Giant Wyrm,None,300,Nature,"Nature,Neutral,Neutral,Neutral",4,Common,Unit
+Girl Power,"Frost,Nature,All",50,Fire,"Fire,Neutral",2,Common,Spell
+Glaciation,"Fire,Frost,All",40,Frost,Frost,1,Common,Spell
+Glacier Shell,None,50,Frost,Frost,1,Common,Spell
+Gladiatrix,"Nature,Shadow,All",70,Fire,"Fire,Neutral",2,Rare,Unit
+Global Warming,"Fire,Frost,All",70,Fire,"Fire,Fire",2,Common,Spell
+Glyph of Frost,None,45,Frost,Frost,1,Uncommon,Spell
+Gravity Surge,"Frost,Shadow,All",65,Frost,"Frost,Neutral",2,Ultra Rare,Spell
+Green Peace,"Fire,Frost,All",100,Nature,"Nature,Nature,Neutral,Neutral",4,Uncommon,Spell
+Grim Bahir,"Fire,Nature,All",230,Shadow,"Shadow,Shadow,Neutral,Neutral",4,Ultra Rare,Unit
+Grimvine,None,260,Nature,"Nature,Neutral,Neutral,Neutral",4,Uncommon,Unit
+Grinder,"Fire,Shadow,All",260,Stonekin,"Frost,Frost,Nature,Nature",4,Rare,Unit
+Grove Spirit,None,70,Nature,"Nature,Nature,Nature,Neutral",4,Rare,Unit
+Gunner,"Fire,Shadow,All",110,Bandit,"Shadow,Fire,Neutral",3,Uncommon,Unit
+Hammerfall,"Frost,Nature,All",150,Stonekin,"Frost,Nature,Neutral",3,Common,Building
+Harvester,None,300,Shadow,"Shadow,Shadow",2,Ultra Rare,Unit
+Hatecaster,"Nature,Shadow,All",100,Twilight,"Nature,Nature,Fire,Fire",4,Uncommon,Building
+Healing Gardens,None,120,Nature,"Nature,Neutral,Neutral",3,Uncommon,Building
+Healing Well,None,60,Nature,"Nature,Neutral",2,Uncommon,Building
+Home Soil,None,40,Frost,Frost,1,Rare,Spell
+Howling Shrine,"Nature,Shadow,All",200,Nature,"Nature,Nature,Neutral,Neutral",4,Uncommon,Building
+Hurricane,None,70,Nature,Nature,1,Rare,Spell
+Ice Age,"Frost,Nature,All",100,Frost,"Frost,Frost",2,Ultra Rare,Spell
+Ice Barrier,None,20,Frost,Frost,1,Common,Building
+Ice Crystal,None,100,Legendary,"Neutral,Neutral",2,Common,Building
+Ice Guardian,None,50,Frost,Frost,1,Rare,Unit
+Ice Shield Tower,None,50,Frost,Frost,1,Rare,Building
+Ice Tornado,None,200,Frost,"Frost,Frost,Neutral,Neutral",4,Rare,Spell
+Icefang Raptor,"Fire,Frost,All",70,Frost,"Frost,Neutral",2,Rare,Unit
+Imperials,None,70,Frost,Frost,1,Common,Unit
+Incubator,"Fire,Shadow,All",100,Shadow,"Shadow,Neutral,Neutral,Neutral",4,Common,Building
+Infect,None,100,Shadow,"Shadow,Shadow,Neutral",3,Ultra Rare,Spell
+Infected Tower,"Fire,Frost,All",70,Twilight,"Nature,Fire",2,Common,Building
+Infernal Chain,"Frost,Nature,All",165,Shadow,"Shadow,Shadow,Neutral,Neutral",4,Common,Spell
+Infernal Machine,"Fire,Shadow,All",260,Fire,"Fire,Fire,Neutral",3,Uncommon,Building
+Inferno,None,300,Fire,"Fire,Fire,Neutral",3,Rare,Spell
+Ironclad,"Fire,Frost,All",280,Frost,"Frost,Frost,Frost,Neutral",4,Ultra Rare,Unit
+Jorne,None,300,Legendary,"Neutral,Neutral,Neutral,Neutral",4,Rare,Unit
+Juggernaut,None,220,Fire,"Fire,Fire,Fire",3,Rare,Unit
+Juice Tank,None,50,Frost,"Frost,Neutral",2,Uncommon,Building
+Knight of Chaos,"Frost,Shadow,All",70,Shadow,"Shadow,Shadow",2,Common,Unit
+Kobold Engineer,None,100,Frost,"Frost,Neutral,Neutral",3,Uncommon,Unit
+Kobold Inc.,"Frost,Shadow,All",120,Frost,"Frost,Frost,Frost,Neutral",4,Uncommon,Building
+Kobold Laboratory,None,50,Frost,"Frost,Neutral",2,Uncommon,Building
+Kobold Trick,None,50,Frost,"Frost,Neutral",2,Common,Spell
+Lava Field,None,120,Fire,"Fire,Neutral",2,Common,Spell
+Life Weaving,None,75,Shadow,Shadow,1,Uncommon,Spell
+Lifestealer,None,50,Shadow,Shadow,1,Common,Building
+Lifestream,None,250,Nature,"Nature,Nature,Neutral,Neutral",4,Rare,Building
+Lightblade,"Fire,Shadow,All",75,Frost,Frost,1,Common,Unit
+Living Tower,None,70,Nature,"Nature,Nature",2,Uncommon,Building
+Lord Cyrian,None,380,Legendary,"Neutral,Neutral,Neutral",3,Ultra Rare,Unit
+Lost Banestone,"Frost,Nature,All",60,Lost Souls,"Frost,Shadow,Neutral",3,Uncommon,Building
+Lost Converter,"Frost,Shadow,All",55,Lost Souls,"Frost,Shadow",2,Uncommon,Building
+Lost Dancer,"Fire,Shadow,All",70,Lost Souls,"Frost,Shadow",2,Common,Unit
+Lost Disruptor,"Nature,Shadow,All",75,Lost Souls,"Frost,Shadow,Neutral",3,Common,Building
+Lost Dragon,"Nature,Shadow,All",250,Lost Souls,"Frost,Frost,Shadow,Shadow",4,Common,Unit
+Lost Evocation,"Fire,Frost,All",150,Lost Souls,"Frost,Frost,Shadow,Shadow",4,Rare,Spell
+Lost Grigori,"Fire,Shadow,All",200,Lost Souls,"Frost,Shadow,Neutral",3,Rare,Unit
+Lost Horror,"Fire,Nature,All",230,Lost Souls,"Frost,Shadow,Neutral",3,Common,Unit
+Lost Launcher,"Fire,Frost,All",70,Lost Souls,"Frost,Shadow",2,Common,Building
+Lost Priest,"Fire,Shadow,All",60,Lost Souls,"Frost,Shadow",2,Uncommon,Unit
+Lost Reaver,"Fire,Shadow,All",120,Lost Souls,"Frost,Shadow",2,Uncommon,Unit
+Lost Shade,"Frost,Shadow,All",90,Lost Souls,"Frost,Shadow",2,Rare,Unit
+Lost Spirit Ship,"Fire,Nature,All",240,Lost Souls,"Frost,Shadow,Neutral,Neutral",4,Uncommon,Unit
+Lost Vigil,"Nature,Shadow,All",160,Lost Souls,"Frost,Shadow,Neutral",3,Uncommon,Unit
+Lost Wanderer,"Frost,Nature,All",80,Lost Souls,"Frost,Shadow",2,Common,Unit
+Lost Warlord,"Fire,Frost,All",260,Lost Souls,"Frost,Frost,Shadow,Shadow",4,Ultra Rare,Unit
+Lyrish Knight,None,60,Frost,"Frost,Neutral",2,Uncommon,Unit
+Maelstrom,None,240,Frost,"Frost,Neutral,Neutral,Neutral",4,Uncommon,Spell
+Magma Fiend,None,250,Fire,"Fire,Fire,Neutral,Neutral",4,Rare,Unit
+Magma Hurler,None,100,Fire,"Fire,Neutral,Neutral",3,Common,Unit
+Magma Spore,None,50,Fire,"Fire,Neutral,Neutral",3,Common,Unit
+Makeshift Tower,None,60,Fire,Fire,1,Uncommon,Building
+Mana Wing,None,60,Nature,Nature,1,Rare,Unit
+Mark of the Keeper,None,70,Nature,Nature,1,Rare,Building
+Master Archers,None,50,Frost,Frost,1,Common,Unit
+Matter Mastery,"Nature,Shadow,All",165,Stonekin,"Frost,Nature",2,Rare,Spell
+Mauler,None,75,Nature,"Nature,Neutral",2,Common,Unit
+Mind Control,None,300,Nature,"Nature,Nature,Nature,Neutral",4,Rare,Spell
+Mindweaver,None,120,Nature,"Nature,Neutral,Neutral",3,Ultra Rare,Building
+Mine,None,80,Fire,Fire,1,Rare,Spell
+Mo,None,350,Legendary,"Neutral,Neutral,Neutral",3,Rare,Unit
+Moloch,None,350,Fire,"Fire,Fire,Fire,Fire",4,Ultra Rare,Unit
+Moon,None,100,Legendary,"Neutral,Neutral",2,Uncommon,Unit
+Morklay Trap,None,50,Fire,"Fire,Neutral",2,Common,Building
+Mortar Tower,None,50,Fire,Fire,1,Rare,Building
+Motivate,None,25,Shadow,Shadow,1,Rare,Spell
+Mountain Rowdy,"Frost,Shadow,All",55,Frost,"Frost,Frost",2,Rare,Unit
+Mountaineer,None,150,Frost,"Frost,Neutral",2,Ultra Rare,Unit
+Mumbo Jumbo,"Fire,Shadow,All",40,Nature,Nature,1,Common,Spell
+Mutating Frenzy,None,120,Shadow,"Shadow,Shadow,Neutral",3,Common,Unit
+Mutating Maniac,"Fire,Nature,All",120,Twilight,"Nature,Fire,Neutral",3,Uncommon,Unit
+Nasty Surprise,None,60,Shadow,Shadow,1,Common,Spell
+Necroblaster,"Nature,Shadow,All",100,Shadow,"Shadow,Neutral,Neutral",3,Common,Building
+Necrofury,None,220,Shadow,"Shadow,Neutral,Neutral,Neutral",4,Uncommon,Unit
+Nether Warp,"Frost,Nature,All",80,Shadow,"Shadow,Shadow",2,Ultra Rare,Spell
+Nightcrawler,None,60,Shadow,Shadow,1,Common,Unit
+Nightguard,"Nature,Shadow,All",65,Shadow,Shadow,1,Rare,Unit
+Nightshade Plant,"Nature,Shadow,All",260,Twilight,"Nature,Nature,Fire,Fire",4,Rare,Unit
+Nomad,"Fire,Nature,All",75,Fire,Fire,1,Common,Unit
+Northern Keep,"Fire,Frost,All",70,Frost,Frost,1,Common,Building
+Northguards,None,50,Frost,Frost,1,Common,Unit
+Northland Drake,"Fire,Frost,All",240,Frost,"Frost,Frost,Frost",3,Common,Unit
+Northstar,"Frost,Nature,All",50,Frost,"Frost,Frost",2,Rare,Building
+Nox Carrier,"Fire,Shadow,All",180,Shadow,"Shadow,Shadow,Neutral",3,Ultra Rare,Unit
+Nox Trooper,None,50,Shadow,Shadow,1,Uncommon,Unit
+Noxious Cloud,None,290,Nature,"Nature,Nature,Neutral,Neutral",4,Uncommon,Spell
+Offering,"Frost,Nature,All",75,Shadow,Shadow,1,Common,Spell
+Oracle Mask,"Fire,Nature,All",100,Fire,"Fire,Fire,Neutral",3,Ultra Rare,Building
+Overlord,None,220,Shadow,"Shadow,Shadow,Neutral,Neutral",4,Rare,Unit
+Parasite,None,100,Nature,"Nature,Neutral",2,Rare,Spell
+Parasite Swarm,None,100,Nature,"Nature,Nature",2,Ultra Rare,Unit
+Phalanx,None,80,Frost,"Frost,Neutral",2,Common,Unit
+Phase Tower,None,60,Shadow,Shadow,1,Uncommon,Building
+Plague,None,150,Shadow,"Shadow,Shadow,Neutral,Neutral",4,Rare,Spell
+Portal Nexus,None,50,Shadow,"Shadow,Neutral",2,Uncommon,Building
+Primal Defender,None,60,Nature,Nature,1,Common,Building
+Primeval Watcher,None,260,Nature,"Nature,Nature,Neutral,Neutral",4,Ultra Rare,Unit
+Promise of Life,"Frost,Nature,All",180,Nature,"Nature,Nature,Nature,Neutral",4,Ultra Rare,Spell
+Protector's Seal (Lost Souls),None,165,Lost Souls,"Frost,Shadow,Neutral",3,Ultra Rare,Spell
+Protector's Seal (Twilight),None,165,Twilight,"Nature,Fire,Neutral",3,Ultra Rare,Spell
+Pyromaniac,"Fire,Frost,All",100,Fire,"Fire,Fire",2,Uncommon,Building
+QueekQueek,None,120,Legendary,"Neutral,Neutral,Neutral",3,Ultra Rare,Unit
+Rageclaws,None,70,Fire,"Fire,Neutral",2,Common,Unit
+Rageflame,"Fire,Frost,All",130,Stonekin,"Frost,Nature,Neutral",3,Ultra Rare,Unit
+Rallying Banner,None,50,Fire,"Fire,Neutral",2,Uncommon,Building
+Ravage,None,50,Fire,"Fire,Neutral",2,Common,Spell
+Ravenheart,None,350,Legendary,"Neutral,Neutral,Neutral,Neutral",4,Rare,Unit
+Ray of Light,None,100,Nature,"Nature,Neutral",2,Common,Spell
+Razorleaf,None,260,Nature,"Nature,Nature,Neutral",3,Rare,Unit
+Razorshard,"Fire,Nature,All",80,Stonekin,"Frost,Nature",2,Uncommon,Unit
+Regrowth,None,150,Nature,"Nature,Neutral,Neutral,Neutral",4,Common,Spell
+Resource Booster,None,50,Shadow,"Shadow,Shadow",2,Uncommon,Building
+Retreating Circle,None,60,Frost,"Frost,Neutral,Neutral",3,Uncommon,Spell
+Revenant's Blessing,"Fire,Nature,All",90,Lost Souls,"Frost,Shadow",2,Rare,Spell
+Revenge,None,100,Nature,"Nature,Neutral,Neutral",3,Rare,Spell
+Rifle Cultists,None,50,Shadow,"Shadow,Neutral,Neutral,Neutral",4,Common,Unit
+Rioter's Retreat,"Frost,Nature,All",80,Bandit,"Shadow,Fire",2,Uncommon,Building
+Ripper,None,70,Shadow,"Shadow,Neutral",2,Common,Unit
+Rocket Tower,None,80,Fire,"Fire,Fire",2,Rare,Building
+Rogan Kayle,None,90,Legendary,"Neutral,Neutral",2,Rare,Unit
+Root Nexus,"Frost,Nature,All",30,Nature,"Nature,Neutral",2,Common,Building
+Sandstorm,"Fire,Shadow,All",230,Bandit,"Shadow,Fire,Neutral",3,Rare,Spell
+Santa Claus,None,200,Legendary,"Neutral,Neutral,Neutral",3,Common,Unit
+Satanael,"Fire,Shadow,All",220,Shadow,"Shadow,Shadow,Shadow",3,Rare,Unit
+Scavenger,None,60,Fire,Fire,1,Uncommon,Unit
+Scorched Earth,"Fire,Shadow,All",80,Fire,Fire,1,Uncommon,Spell
+Scythe Fiends,None,100,Fire,"Fire,Neutral",2,Rare,Unit
+Second Chance,"Nature,Shadow,All",220,Shadow,"Shadow,Shadow,Shadow,Neutral",4,Uncommon,Spell
+Shadow Insect,None,100,Shadow,"Shadow,Neutral,Neutral",3,Common,Unit
+Shadow Mage,None,55,Shadow,"Shadow,Shadow",2,Rare,Unit
+Shadow Phoenix,None,100,Shadow,"Shadow,Neutral",2,Uncommon,Unit
+Shadow Worm,None,250,Shadow,"Shadow,Shadow,Shadow,Shadow",4,Ultra Rare,Unit
+Shaman,None,70,Nature,Nature,1,Uncommon,Unit
+Shatter Ice,None,100,Frost,"Frost,Frost,Frost,Neutral",4,Common,Spell
+Shield Building,None,50,Frost,"Frost,Neutral,Neutral",3,Common,Spell
+Shrine of Greed,None,100,Shadow,"Shadow,Shadow",2,Rare,Building
+Shrine of Martyrs,None,125,Frost,"Frost,Frost,Neutral",3,Rare,Building
+Shrine of Memory,None,100,Nature,"Nature,Nature",2,Rare,Building
+Shrine of War,None,150,Fire,"Fire,Neutral,Neutral",3,Rare,Building
+Silverwind Lancers,None,80,Frost,"Frost,Neutral,Neutral",3,Common,Unit
+Skeleton Warriors,None,50,Shadow,Shadow,1,Common,Unit
+Skycatcher,"Frost,Nature,All",250,Twilight,"Nature,Fire,Neutral,Neutral",4,Ultra Rare,Unit
+Skydefender,"Nature,Shadow,All",80,Bandit,"Shadow,Fire",2,Common,Building
+Skyelf Commander,None,100,Frost,"Frost,Frost,Neutral,Neutral",4,Rare,Unit
+Skyelf Sage,None,100,Frost,"Frost,Frost,Neutral",3,Rare,Unit
+Skyelf Templar,None,100,Frost,"Frost,Neutral",2,Rare,Unit
+Skyfire Drake,None,110,Fire,"Fire,Neutral",2,Uncommon,Unit
+Slaver,"Fire,Shadow,All",80,Twilight,"Nature,Fire",2,Common,Unit
+Snapjaws,"Fire,Shadow,All",70,Shadow,Shadow,1,Common,Unit
+Soul Splicer,"Fire,Nature,All",60,Shadow,Shadow,1,Rare,Building
+Soulhunter,"Frost,Shadow,All",260,Bandit,"Shadow,Fire,Neutral",3,Uncommon,Unit
+Soulshatter,None,150,Shadow,"Shadow,Neutral,Neutral",3,Rare,Spell
+Spearmen,None,70,Nature,Nature,1,Common,Unit
+Spikeroot,None,120,Nature,"Nature,Nature",2,Rare,Unit
+Spirit Hunters,"Nature,Shadow,All",75,Nature,"Nature,Neutral",2,Common,Unit
+Spitfire,None,220,Fire,"Fire,Fire,Fire",3,Ultra Rare,Unit
+Spore Launcher,None,260,Nature,"Nature,Nature,Neutral,Neutral",4,Uncommon,Unit
+Stone Hurler,"Fire,Shadow,All",75,Stonekin,"Frost,Nature",2,Uncommon,Building
+Stone Launcher,"Frost,Shadow,All",70,Stonekin,"Frost,Nature,Neutral",3,Common,Building
+Stone of Torment,None,90,Shadow,"Shadow,Neutral",2,Common,Building
+Stone Shards,"Fire,Frost,All",60,Stonekin,"Frost,Nature",2,Common,Unit
+Stone Shell,"Nature,Shadow,All",70,Stonekin,"Frost,Nature,Neutral",3,Common,Spell
+Stone Tempest,"Frost,Shadow,All",120,Stonekin,"Frost,Nature",2,Common,Unit
+Stone Warrior,"Frost,Nature,All",120,Stonekin,"Frost,Nature,Neutral",3,Uncommon,Unit
+Stormsinger,"Fire,Nature,All",60,Frost,"Frost,Neutral",2,Rare,Unit
+Stranglehold,"Nature,Shadow,All",60,Nature,Nature,1,Uncommon,Building
+Strikers,None,90,Fire,Fire,1,Uncommon,Unit
+Stronghold,None,150,Frost,"Frost,Frost,Neutral",3,Ultra Rare,Building
+Sun Reaver,"Fire,Nature,All",120,Fire,"Fire,Neutral,Neutral",3,Common,Unit
+Sunderer,None,110,Fire,Fire,1,Rare,Unit
+Sunken Temple,"Nature,Shadow,All",120,Nature,"Nature,Nature",2,Common,Building
+Sunstriders,None,50,Fire,Fire,1,Common,Unit
+Suppression,None,40,Fire,Fire,1,Uncommon,Spell
+Surge of Light,None,80,Nature,Nature,1,Common,Spell
+Swamp Drake,None,120,Nature,"Nature,Neutral,Neutral",3,Common,Unit
+Swiftclaw,None,70,Nature,Nature,1,Uncommon,Unit
+Sylvan Gate,"Fire,Frost,All",110,Nature,"Nature,Nature,Neutral",3,Rare,Building
+Tempest,None,90,Frost,"Frost,Neutral,Neutral,Neutral",4,Common,Unit
+Termite Hill,None,40,Fire,"Fire,Neutral",2,Uncommon,Building
+The Incredible Mo,None,100,Legendary,"Neutral,Neutral,Neutral",3,Rare,Building
+Thornbark,None,120,Nature,"Nature,Neutral,Neutral",3,Uncommon,Unit
+Thugs,None,60,Fire,Fire,1,Common,Unit
+Thunder Wagon,"Fire,Shadow,All",260,Fire,"Fire,Fire,Fire,Neutral",4,Ultra Rare,Unit
+Thunderstorm,None,150,Nature,"Nature,Neutral,Neutral",3,Uncommon,Spell
+Time Vortex,"Frost,Shadow,All",100,Shadow,"Shadow,Neutral",2,Uncommon,Building
+Timeless One,None,55,Frost,"Frost,Frost,Neutral",3,Rare,Unit
+Timeshifter Spirit,None,100,Nature,"Nature,Nature,Nature",3,Ultra Rare,Unit
+Tortugun,"Fire,Frost,All",240,Bandit,"Shadow,Shadow,Fire,Fire",4,Ultra Rare,Unit
+Tower of Flames,None,120,Fire,"Fire,Neutral,Neutral",3,Uncommon,Building
+Treefiend,"Nature,Shadow,All",150,Twilight,"Nature,Nature,Fire",3,Common,Unit
+Treespirit,"Nature,Shadow,All",60,Nature,Nature,1,Rare,Unit
+Tremor,None,100,Frost,"Frost,Frost,Neutral",3,Common,Unit
+Tunnel,None,40,Nature,Nature,1,Common,Building
+Twilight Bombard,"Fire,Frost,All",100,Twilight,"Nature,Fire,Neutral",3,Common,Building
+Twilight Brute,"Fire,Nature,All",60,Twilight,"Nature,Fire",2,Common,Unit
+Twilight Creeper,"Fire,Shadow,All",100,Twilight,"Nature,Fire,Neutral",3,Rare,Unit
+Twilight Curse,"Fire,Shadow,All",110,Twilight,"Nature,Fire,Neutral",3,Rare,Spell
+Twilight Hag,"Fire,Nature,All",75,Twilight,"Nature,Nature,Fire",3,Common,Unit
+Twilight Minions,"Fire,Nature,All",60,Twilight,"Nature,Fire",2,Common,Unit
+Twilight Pestilence,"Frost,Nature,All",150,Twilight,"Nature,Nature,Fire,Fire",4,Rare,Spell
+Twilight Warfare,"Fire,Shadow,All",55,Twilight,"Nature,Fire,Neutral",3,Ultra Rare,Spell
+Undead Army,None,110,Shadow,"Shadow,Shadow",2,Common,Spell
+Unholy Hero,None,80,Shadow,"Shadow,Neutral,Neutral,Neutral",4,Common,Spell
+Unholy Power,None,100,Shadow,"Shadow,Neutral",2,Common,Spell
+Unity,"Frost,Nature,All",110,Fire,"Fire,Fire,Neutral",3,Common,Spell
+Unstable Demon,None,100,Shadow,"Shadow,Neutral,Neutral",3,Uncommon,Unit
+Vileblood,"Fire,Nature,All",130,Twilight,"Nature,Fire",2,Uncommon,Unit
+Viridya,None,90,Legendary,"Neutral,Neutral",2,Rare,Unit
+Virtuoso,None,120,Fire,"Fire,Neutral,Neutral",3,Rare,Unit
+Void Maw,None,100,Shadow,"Shadow,Shadow,Neutral,Neutral",4,Uncommon,Unit
+Voidstorm,None,200,Shadow,"Shadow,Shadow,Shadow",3,Uncommon,Spell
+Volcano,"Fire,Nature,All",150,Fire,"Fire,Fire,Fire,Neutral",4,Ultra Rare,Building
+Voodoo Shack,None,50,Fire,"Fire,Fire,Neutral",3,Ultra Rare,Building
+Vulcan,None,120,Fire,"Fire,Fire,Neutral",3,Uncommon,Unit
+Wallbreaker,None,30,Fire,"Fire,Neutral",2,Uncommon,Spell
+War Eagle,None,100,Frost,"Frost,Frost",2,Rare,Unit
+Ward of the North,None,100,Frost,"Frost,Frost,Neutral",3,Rare,Spell
+Warden's Sigil,"Frost,Nature,All",30,Frost,Frost,1,Common,Building
+Warlock,"Fire,Frost,All",65,Fire,"Fire,Fire",2,Common,Unit
+Warrior's Death,"Fire,Frost,All",90,Bandit,"Shadow,Fire",2,Common,Spell
+Waystation,"Fire,Shadow,All",50,Bandit,"Shadow,Fire,Neutral",3,Common,Building
+Werebeasts,None,65,Nature,Nature,1,Common,Unit
+Wheel of Gifts,None,200,Nature,"Nature,Nature,Neutral",3,Rare,Building
+White Rangers,None,70,Frost,"Frost,Frost",2,Uncommon,Unit
+Wildfire,None,80,Fire,"Fire,Fire",2,Rare,Spell
+Willzapper,"Fire,Shadow,All",70,Twilight,"Nature,Fire",2,Uncommon,Building
+Windhunter,"Nature,Shadow,All",120,Bandit,"Shadow,Fire",2,Uncommon,Unit
+Windweavers,None,70,Nature,Nature,1,Common,Unit
+Winter Witch,None,60,Frost,"Frost,Frost,Neutral,Neutral",4,Uncommon,Unit
+Wintertide,"Fire,Frost,All",60,Frost,Frost,1,Rare,Spell
+Witchclaws,"Fire,Shadow,All",65,Shadow,Shadow,1,Common,Unit
+Worldbreaker Gun,None,250,Frost,"Frost,Frost,Neutral,Neutral",4,Rare,Building
+Wrathblades,None,50,Shadow,Shadow,1,Common,Unit
+Wrathgazer,None,220,Shadow,"Shadow,Shadow,Shadow",3,Ultra Rare,Unit
+Wrecker,None,50,Fire,Fire,1,Common,Unit
