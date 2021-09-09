@@ -3,6 +3,7 @@ import streamlit as st
 # working with sample data.
 import pandas as pd
 import random
+import configparser as cp
 
 """
 # Battleforge Reborn Deck Randomizer
@@ -82,12 +83,15 @@ def gen_pve_deck():
     Generates a deck with parameters fitting for a PvE Deck. These are the parameters used in the program previously.
     :return: resource_orbs, final_deck - a tuple which has the picked orb colors and the generated deck as its elements.
     """
-    min_tn_units = (2, 2, 2, 2)
-    min_tn_buildings = (1, 1, 1, 1)
-    min_tn_spells = (1, 1, 1, 1)
+    pve_parser = cp.RawConfigParser()
+    config_path = r"config.txt"
+    pve_parser.read(config_path)
 
-    max_n_colors = 2
-    min_n_colors = 1
+    min_tn_units = [int(t) for t in pve_parser.get("PvE-config", "min_tn_units").split(',')]
+    min_tn_buildings = [int(t) for t in pve_parser.get("PvE-config", "min_tn_buildings").split(',')]
+    min_tn_spells = [int(t) for t in pve_parser.get("PvE-config", "min_tn_spells").split(',')]
+    max_n_colors = int(pve_parser.get("PvE-config", "max_n_colors"))
+    min_n_colors = int(pve_parser.get("PvE-config", "min_n_colors"))
 
     return gen_deck(min_tn_units, min_tn_buildings, min_tn_spells, max_n_colors, min_n_colors)
 
@@ -98,12 +102,15 @@ def gen_pvp_deck():
     but in a way, that seemed fitting for a PvP Deck.
     :return: resource_orbs, final_deck - a tuple which has the picked orb colors and the generated deck as its elements.
     """
-    min_tn_units = (2, 2, 2, 0)
-    min_tn_buildings = (1, 1, 0, 0)
-    min_tn_spells = (1, 1, 1, 0)
+    pvp_parser = cp.RawConfigParser()
+    config_path = r"config.txt"
+    pvp_parser.read(config_path)
 
-    max_n_colors = 3
-    min_n_colors = 1
+    min_tn_units = [int(t) for t in pvp_parser.get("PvP-config", "min_tn_units").split(',')]
+    min_tn_buildings = [int(t) for t in pvp_parser.get("PvP-config", "min_tn_buildings").split(',')]
+    min_tn_spells = [int(t) for t in pvp_parser.get("PvP-config", "min_tn_spells").split(',')]
+    max_n_colors = int(pvp_parser.get("PvP-config", "max_n_colors"))
+    min_n_colors = int(pvp_parser.get("PvP-config", "min_n_colors"))
 
     return gen_deck(min_tn_units, min_tn_buildings, min_tn_spells, max_n_colors, min_n_colors)
 
